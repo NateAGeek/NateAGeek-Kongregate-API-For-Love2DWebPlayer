@@ -1,3 +1,9 @@
+This has been edited to work with Kongregate API
+
+Note: not all the API functions work. The game is called from index.html. The only way to get Kongregate to 
+work; is uploading it from a server as an IFRAME to Kongregate.com, you can preview it befor submiting it.
+
+
 Love2D WebPlayer
 started 2012-03 ghoulsblade@schattenkind.net
 demos: http://ghoulsblade.schattenkind.net/love-webplayer/
